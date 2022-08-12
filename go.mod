@@ -1,4 +1,4 @@
-module github.com/group-robot/dingtalk-robot
+module github.com/group-robot/dingtalk-robot/v2
 
 go 1.16
 
