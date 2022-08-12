@@ -1,6 +1,13 @@
 # dingtalk-robot
 [![Go Reference](https://pkg.go.dev/badge/github.com/group-robot/dingtalk-robot.svg)](https://pkg.go.dev/github.com/group-robot/dingtalk-robot) 钉钉自定义机器人
 
+# Installation
+```
+# Go Modules
+
+require github.com/group-robot/dingtalk-robot/v2 
+```
+
 # Example
 
 ### text
